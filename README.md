@@ -2,11 +2,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Kumar%20Mishra-blue)](https://www.linkedin.com/in/anand-kumar-316a20200)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Anand__mechcode-orange)](https://leetcode.com/u/Anand_mechcode/)
+[![Gmail](https://img.shields.io/badge/Email-anandmishra19497%40gmail.com-red)](mailto:anandmishra19497@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-princemishra19497%40gmail.com-red)](mailto:princemishra19497@gmail.com)
 
 ---
 
 ## 🚀 About Me
-I am a passionate **Backend Developer** with over **3 years and 5 months** of experience specializing in **Java**, **Data Structures & Algorithms (DSA)**, and **Spring Boot**. I love solving complex problems and building efficient, scalable backend systems. I aim to create robust and high-performance solutions that meet business needs and make a difference.
+I am a passionate **Backend Developer** with over **3 years and 5 months** of experience specializing in **Java**, **Data Structures & Algorithms (DSA)**, and **Spring Boot**. I love solving complex problems and building efficient, scalable backend systems. My goal is to create robust, high-performance solutions that address business needs.
 
 ---
 
@@ -26,11 +28,11 @@ I am a passionate **Backend Developer** with over **3 years and 5 months** of ex
 _April 2023 – Present_
 - Developing backend services using **Java** and **Spring Boot** for high-performance, scalable applications.
 - Implementing advanced **Data Structures & Algorithms (DSA)** to optimize system performance.
-- Working in **Agile** environments, collaborating with cross-functional teams to deliver top-notch solutions.
+- Collaborating in **Agile** environments to deliver top-notch solutions.
 
 ### Software Engineer | Tata Consultancy Services (TCS)
 _April 2021 – March 2023_
-- Designed and maintained Java-based backend applications with a focus on efficiency and performance.
+- Designed and maintained Java-based backend applications focused on efficiency and performance.
 - Developed modular **RESTful APIs** using **Spring Boot**, enhancing scalability.
 - Solved critical system bottlenecks through **DSA** implementations, improving code efficiency.
 
@@ -41,7 +43,7 @@ _April 2021 – March 2023_
 ### Job Application Platform
 - **Technologies:** Spring Boot, JDBC, SQL
 - Developed a full-stack platform to manage job postings, descriptions, and applications.
-- Built with **CRUD** operations and **JDBC** to manage database interactions.
+- Built with **CRUD** operations and **JDBC** to handle database interactions.
 - Filtered job postings by skills and displayed them in a user-friendly UI.
 
 ---
@@ -55,13 +57,13 @@ _RGPV University, Bhopal_
 ## 📜 Certifications:
 - **Certified Java Associate** (Infosys)
 - **Coursera:** Data Structures & Algorithms
-- **Udemy:** Advanced Java, Spring Boot & Microservices by chad darby
+- **Udemy:** Advanced Java, Spring Boot & Microservices
 
 ---
 
 ## 💡 My Interests:
 - **Backend Development**: Crafting robust, scalable systems using Java and Spring Boot.
-- **Algorithm Optimization**: Constantly improving my DSA knowledge through problem-solving.
+- **Algorithm Optimization**: Continuously improving my DSA knowledge through problem-solving.
 - **Microservices Architecture**: Designing distributed systems with microservices.
 
 ---
@@ -73,5 +75,7 @@ I'm actively solving challenges on **LeetCode** to keep my problem-solving skill
 
 ---
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories, connect with me, or drop me an email!
 
+📧 anandmishra19497@gmail.com  
+📧 princemishra19497@gmail.com
