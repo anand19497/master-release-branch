@@ -16,6 +16,7 @@ public class Graph {
         adjacencyMatrix[i][j] = 1;
         adjacencyMatrix[j][i] = 1;
     }
+    
 
     public String toString() {
         StringBuilder s = new StringBuilder();
