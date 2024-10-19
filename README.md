@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate **Backend Developer** with over **3 years and 5 months** of experience specializing in **Java**, **Data Structures & Algorithms (DSA)**, and **Spring Boot**. I love solving complex problems and building efficient, scalable backend systems. My goal is to create robust, high-performance solutions that address business needs.
+I am a passionate **Backend Developer** with over **3 years and 8 months** of experience specializing in **Java**, **Data Structures & Algorithms (DSA)**, and **Spring Boot**. I love solving complex problems and building efficient, scalable backend systems. My goal is to create robust, high-performance solutions that address business needs.
 
 ---
 
