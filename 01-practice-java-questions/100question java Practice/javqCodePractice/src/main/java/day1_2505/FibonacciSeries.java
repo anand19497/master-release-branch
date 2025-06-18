@@ -7,6 +7,7 @@ public class FibonacciSeries {
         b = 1;
         c = 0;
         System.out.print(a + " ");
+        System.out.print(b + " ");
         
 
         c = a + b;
