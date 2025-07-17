@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate **Backend Developer** with over **3 years and 8 months** of experience specializing in **Java**, **Data Structures & Algorithms (DSA)**, and **Spring Boot**. I love solving complex problems and building efficient, scalable backend systems. My goal is to create robust, high-performance solutions that address business needs.
+I am a passionate **Backend Developer** with over **4 years and 6 months** of experience specializing in **Java**, **Data Structures & Algorithms (DSA)**, and **Spring Boot**. I love solving complex problems and building efficient, scalable backend systems. My goal is to create robust, high-performance solutions that address business needs.
 
 ---
 
@@ -23,9 +23,12 @@ I am a passionate **Backend Developer** with over **3 years and 8 months** of ex
 ---
 
 ## 💻 Professional Experience:
+### Software Developer | Birlasoft
+nov 2024- present
+- Developing backend services using **Java** and **Spring Boot** for high-performance, scalable applications.
 
 ### Software Developer | Infosys
-_April 2023 – Present_
+_April 2023 – Nov 2024
 - Developing backend services using **Java** and **Spring Boot** for high-performance, scalable applications.
 - Implementing advanced **Data Structures & Algorithms (DSA)** to optimize system performance.
 - Collaborating in **Agile** environments to deliver top-notch solutions.
