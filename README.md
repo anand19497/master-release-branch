@@ -1,4 +1,4 @@
-# Hi, I'm Anand Kumar Mishra 👋
+# Hi, I'm Anand Kumar Mish 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Kumar%20Mishra-blue)](https://www.linkedin.com/in/anand-kumar-316a20200)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Anand__mechcode-orange)](https://leetcode.com/u/Anand_mechcode/)
